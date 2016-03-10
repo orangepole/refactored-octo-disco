@@ -1,11 +1,11 @@
 #!/bin/bash
 
 # Compare master and slave tables for any inconsistency
-# Author : Jagadeesan
+# Author : Jagad
 # Date	 : 10-March-2016 
 
 
-# Path 1: Initial checking of table size : md5umns x rows
+# Path 1: Initial checking of table size : md5umns & rows counts
 
 printf "\n\t Venturesity Challange 195 \n\t Obj: Compare two tables for inconsistency\n" 
 
